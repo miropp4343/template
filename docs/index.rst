@@ -23,3 +23,9 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+Indices and tables1
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
