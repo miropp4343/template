@@ -12,9 +12,6 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *Acoustic Echo cancel
-   *Beamforming
-   BeamformingBeamformingBeamformingBeamformingBeamformingBeamformingBeamformingBeamformingBeamformingBeamformingBeamforming
 
 
 
